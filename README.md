@@ -5,7 +5,8 @@ GPC is a control algorithm that defines a cost function representing the error c
 
 The script allows the user to see the evoltuion of the simulation in real time.
 
-![mpc](https://user-images.githubusercontent.com/40301612/96034025-db0e7200-0e58-11eb-931f-44e96425d48d.PNG)
+<img src="https://user-images.githubusercontent.com/40301612/96034025-db0e7200-0e58-11eb-931f-44e96425d48d.PNG" width="600">
+
 
 This controller proved capable of controlling the outputs of the simulated system.
 ![mpc1](https://user-images.githubusercontent.com/40301612/96034183-0db86a80-0e59-11eb-98e4-c0d31f9fc6ea.PNG)
